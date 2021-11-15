@@ -1,32 +1,32 @@
 
-## STEFANIE-BETA-V-8.5
+## DAS-SER-BETA-V-8.5
 
-![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Kaweeshachamodk/STEFANIE-BETA-V-8.5&left_color=blueviolet&right_color=brightgreen)
+![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=c-handu/DAS-SER-BETA-V-8.5&left_color=blueviolet&right_color=brightgreen)
 
 
 <p>
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70808&lines=𝗪𝗲𝗹𝗰𝗼𝗺𝗲;𝗧𝗼+STEFANIE+BETA;VERSION+🕵️‍♂️&font=Fira%20Code&center=true&width=250&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70808&lines=𝗪𝗲𝗹𝗰𝗼𝗺𝗲;𝗧𝗼+DAS-SER+BETA;VERSION+🕵️‍♂️&font=Fira%20Code&center=true&width=250&height=50">
 
 ----
 #### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/Kaweeshachamodk/blob/main/README-SI.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Kaweeshachamodk/STEFANIE-BETA-V-8.5/blob/master/README-SI.md)
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/c-handu/blob/main/README-SI.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/c-handu/DAS-SER-BETA-V-8.5/blob/master/README-SI.md)
               
        ⚡ ◁====BETA RELEASE===▷
 ![logo](https://telegra.ph/file/0edc0f3917fde20a7990a.jpg)
-<h1 align="center"><b> 🧚Stefanie (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> 🧚DAS-SER (ᴠɪᴘ) </b></h1>
 
 </p>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Stefanie+Beta&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+DAS-SER+Beta&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 </a>
 <p align="center">
-    Project of  🧚Stefanie -  Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp....🇱🇰
+    Project of  🧚DAS-SER -  Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp....🇱🇰
     <br>
         <a href="https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4">Support Group</a> |
         <a href="https://wa.me/message/YGTQBCHLAUYIL1">Virus fucker Whatsapp </a> |
@@ -34,7 +34,7 @@
 
 ## ☇ Special Features ☇
 
-- ▣ Stefanie Voice Chatbot
+- ▣ DAS-SER Voice Chatbot
 
 - ▣ simi simi chatbot
 
@@ -51,26 +51,26 @@
 </p>
 ---------------------------------------------------------
 <p align="center">
-  <a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA">
+  <a href="https://github.com/c-handu/DAS-SER-V5.2-BETA">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
-  <a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA">
+  <a href="https://github.com/c-handu/DAS-SER-V5.2-BETA">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA">
+  <a href="https://github.com/c-handu/DAS-SER-V5.2-BETA">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA/fork">
+  <a href="https://github.com/c-handu/DAS-SER-V5.2-BETA/fork">
     <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA/stargazers">
+  <a href="https://github.com/c-handu/DAS-SER-V5.2-BETA/stargazers">
     <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
   </a>
 </p>
@@ -89,7 +89,7 @@
 
   </a>
   <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Stefanie%20X&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=DAS-SER%20X&color=purple&style=plastic">
 
   </a>
   <a href="https://wa.me/94779529221">
@@ -104,7 +104,7 @@
 ### Simple method 
 
 #### You can easily get the QR code Repl.it .. Click the button below
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Kaweeshachamodk/STEFANIE-BETA-NEW-6?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@c-handu/DAS-SER-BETA-NEW-6?v=1)
 
 ## ⚙️ Setup ⚙️
 ```
@@ -112,34 +112,34 @@
 
 >+ pkg install nodejs
 
->+ git clone https://github.com/Kaweeshachamodk/STEFANIE-BETA-V-8.5
+>+ git clone https://github.com/c-handu/DAS-SER-BETA-V-8.5
 
->+ cd Stefanie
+>+ cd DAS-SER
 
 >+ npm i @adiwajshing/baileys
 
 >+ npm i chalk
 
->+ node stefanie.js
+>+ node DAS-SER.js
 ```
 
-`You need 2 mobile phones to build the Stefanie  bot!
+`You need 2 mobile phones to build the DAS-SER  bot!
 You will run the bot from the second device.
 You will only generate a QR code with the first device.
-From the first device you need to install Stefanie Bot.`
+From the first device you need to install DAS-SER Bot.`
 
 #### You can easily get the QR code Repl.it .. Click the button below
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/STEFANIE-BETA-V-8.5)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/c-handu/DAS-SER-BETA-V-8.5)
 
 
 > [Sinhala Youtube Tutorial](https://youtu.be/sEtocRRzTno)
 
 > [![Sinhala Youtube Tutorial](https://telegra.ph/file/c32d74b7afc8ffe2e7fef.png)(https://youtu.be/GNSARiAUfKA)
 
-## 🚀Here is the Stefanie‍ bot features
+## 🚀Here is the DAS-SER‍ bot features
 
 
-<a href="https://github.com/Kaweeshachamodk/My-Important-Bot-list">
+<a href="https://github.com/c-handu/My-Important-Bot-list">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
   
   </a>
@@ -155,7 +155,7 @@ Click WA logo to Join Support Group 👇
 
        
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaweeshachamodk&repo=STEFANIE-V5.2-BETA&theme=nightowl)](https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c-handu&repo=DAS-SER-V5.2-BETA&theme=nightowl)](https://github.com/c-handu/DAS-SER-V5.2-BETA)
 
   </div>
 
@@ -189,7 +189,7 @@ There are **100+** Features/Commands Are there in **this bot!**
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, stefanie executives do not accept responsibility.
+Absolutely, DAS-SER executives do not accept responsibility.
 By establishing the alexa, you are deemed to have accepted these responsibilities.
 ```
 
@@ -197,9 +197,9 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 
 ## 👨‍💻Developer
 
-[![Kaweeshachamodk](https://github.com/Kaweeshachamodk.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![c-handu](https://github.com/c-handu.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
- ***Kaweeshachamodk(VIRUS_FUCKER)***
+ ***c-handu(VIRUS_FUCKER)***
 <a href="https://wa.me/message/YGTQBCHLAUYIL1">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
@@ -225,15 +225,15 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://wa.me/message/YGTQBCHLAUYIL1)
 
 
-### 📑Stefanie Support Groups
+### 📑DAS-SER Support Groups
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-Plugins-red.svg)](https://chat.whatsapp.com/BnjLaEOiiruJ6m1Rz4V04p)
-[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-Support01-blue.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
-[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-Support02-blue.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
-[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-Support03-blue.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
-[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News01-purple.svg)](https://chat.whatsapp.com/FrZ2w8bgWnQI1hRhzZecbf)
-[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News02-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
-[![Find On Whatsapp ](https://img.shields.io/badge/Stefanie-News03-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+[![Find On Whatsapp ](https://img.shields.io/badge/DAS-SER-Plugins-red.svg)](https://chat.whatsapp.com/BnjLaEOiiruJ6m1Rz4V04p)
+[![Find On Whatsapp ](https://img.shields.io/badge/DAS-SER-Support01-blue.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+[![Find On Whatsapp ](https://img.shields.io/badge/DAS-SER-Support02-blue.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+[![Find On Whatsapp ](https://img.shields.io/badge/DAS-SER-Support03-blue.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+[![Find On Whatsapp ](https://img.shields.io/badge/DAS-SER-News01-purple.svg)](https://chat.whatsapp.com/FrZ2w8bgWnQI1hRhzZecbf)
+[![Find On Whatsapp ](https://img.shields.io/badge/DAS-SER-News02-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
+[![Find On Whatsapp ](https://img.shields.io/badge/DAS-SER-News03-purple.svg)](https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4)
 
  
  
@@ -251,10 +251,10 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
  
 
-## How to create simple plugin for Stefanie bot
+## How to create simple plugin for DAS-SER bot
 
 
-<a href="https://github.com/Kaweeshachamodk/Create-simple-plugin">
+<a href="https://github.com/c-handu/Create-simple-plugin">
 
     <img src="https://img.shields.io/badge/Click%0here-purple&style=plastic">
 
